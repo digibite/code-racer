@@ -1,0 +1,26 @@
+#home {
+    height: 100vh;
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.75),
+            rgba(0, 0, 0, 0.75)
+        ),
+        url("./images/background1.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+h1 {
+    font-size: 85px;
+}
+#playnow {
+    background: transparent;
+}
+
+#playnow:hover {
+    background-color: #607d8b;
+    color: white;    
+}
+
+

@@ -1,0 +1,46 @@
+.play {
+    margin: 50px
+}
+
+.progress {
+    height: 50px;
+    color: #eceff1;
+}
+
+#prompt {
+    margin-top: -12px;
+}
+
+#scoreboard {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #607d8b;
+
+}
+
+#language {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#prompts {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #455a64;
+}
+
+#prompts:hover {
+    background-color: #37474f;
+    color: #ffffff;
+}
+
+#prompts:focus {
+    box-shadow: none;
+    color: #ffffff;
+}
+
+.alert {
+    background-color: #eceff1;
+    border: none;
+}

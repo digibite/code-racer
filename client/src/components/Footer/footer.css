@@ -1,0 +1,9 @@
+.container {
+    width: auto;
+    padding: 0 15px;
+}
+
+.footer {
+    margin-top: 150px;
+    background-color: #607d8b;
+}
